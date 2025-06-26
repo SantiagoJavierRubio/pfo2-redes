@@ -107,8 +107,9 @@ class ServidorAPI:
     def run(self):
         self.app.run(debug=True)
 
+servidor = ServidorAPI()
+app = servidor.app
+
 if __name__ == '__main__':
-    servidor = ServidorAPI()
     servidor.run()
     
-app = servidor.app
