@@ -110,3 +110,5 @@ class ServidorAPI:
 if __name__ == '__main__':
     servidor = ServidorAPI()
     servidor.run()
+    
+app = servidor.app

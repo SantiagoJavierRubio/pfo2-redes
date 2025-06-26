@@ -3,7 +3,7 @@
 ### Pasos iniciales
 Clonar el repositorio
 ```bash
-git clone ...
+git clone https://github.com/SantiagoJavierRubio/pfo2-redes.git
 ```
 Acceder al codigo
 ```bash
