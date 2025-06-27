@@ -59,6 +59,6 @@ python cliente.py {{api_url}}
 ```
 
 > [!NOTE]
-> Existe un deploy del servidor en https://www.pythonanywhere.com
+> Existe un deploy del servidor en https://sjrubio91.pythonanywhere.com
 > Se puede poner esa url en api_url para realizar pruebas desde el cliente en local.
 > El mismo estará disponible hasta el 26 de septiembre del 2025
